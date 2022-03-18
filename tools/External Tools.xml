@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="clean install" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/maven/ci.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
