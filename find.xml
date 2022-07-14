@@ -13,10 +13,10 @@
     <mask>*.json</mask>
     <mask>*Entry.java</mask>
     <mask>*EventHandler.java</mask>
-    <mask>*.sql</mask>
     <mask>*Test.java</mask>
     <mask>*Upcaster*.java</mask>
     <mask>pom.xml</mask>
     <mask>*Saga.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
