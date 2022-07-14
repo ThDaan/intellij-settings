@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*SagaTest.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -13,10 +14,10 @@
     <mask>*.json</mask>
     <mask>*Entry.java</mask>
     <mask>*EventHandler.java</mask>
-    <mask>*Test.java</mask>
     <mask>*Upcaster*.java</mask>
     <mask>pom.xml</mask>
     <mask>*Saga.java</mask>
     <mask>*.sql</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
