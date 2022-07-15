@@ -22,7 +22,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -46,7 +45,6 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -75,6 +73,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.selenium">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="ink.organics.pojo2json">
           <value>
             <PluginData>
@@ -85,7 +88,22 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="io.nimbly.tzatziki">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.xml" />
+                  <option value="com.intellij.properties" />
+                  <option value="gherkin" />
+                  <option value="org.intellij.intelliLang" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -106,6 +124,18 @@
             <PluginData>
               <option name="dependencies">
                 <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="mw.unitv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
