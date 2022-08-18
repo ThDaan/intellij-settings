@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Config.java" />
     <mask>*SagaTest.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -19,5 +20,6 @@
     <mask>*.properties</mask>
     <mask>*.feature</mask>
     <mask>*.sql</mask>
+    <mask>*Config.java</mask>
   </component>
 </application>
