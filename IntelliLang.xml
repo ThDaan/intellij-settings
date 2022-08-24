@@ -452,5 +452,10 @@
       <place><![CDATA[xmlAttribute().withLocalName("key").withParent(xmlTag().withNamespace(string().equalTo("http://www.springframework.org/schema/cache")))]]></place>
       <place><![CDATA[xmlAttribute().withLocalName("unless").withParent(xmlTag().withNamespace(string().equalTo("http://www.springframework.org/schema/cache")))]]></place>
     </injection>
+    <injection language="JSON" injector-id="xml">
+      <display-name>spilUpdate</display-name>
+      <single-file value="false" />
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("spilUpdate"))]]></place>
+    </injection>
   </component>
 </application>
