@@ -1,9 +1,8 @@
 <application>
   <component name="Telemetry">
-    <option name="TelemetryId" value="7a798a9b-bbef-4780-8c90-4aa09110451b" />
-    <option name="LastUseDate" value="2022-10-17T15:21:54.516973" />
-    <option name="BrowserSurveyPeriodBegin" value="2022-10-17T15:21:08.75567" />
+    <option name="TelemetryId" value="e96ec5bc-7069-4cca-9ca2-d05cebe4b22f" />
+    <option name="LastUseDate" value="2022-10-13T11:48:38.966731" />
+    <option name="BrowserSurveyPeriodBegin" value="2022-10-13T09:26:11.235139" />
     <option name="ShownForms" value="" />
-    <option name="HasGeneratedTests" value="true" />
   </component>
 </application>
