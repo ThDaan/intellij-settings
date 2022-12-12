@@ -6,8 +6,13 @@
           <option name="url" value="http://cde.toyota-europe.com" />
           <option name="userName" value="DTH9576" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://cde.toyota-europe.com/stash/scm/leadmgmtk/vot-regression-suite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/sources" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

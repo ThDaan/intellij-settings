@@ -14,11 +14,11 @@
     <mask>*EventHandler.java</mask>
     <mask>*Upcaster*.java</mask>
     <mask>*Saga.java</mask>
-    <mask>*Test.java</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.feature</mask>
     <mask>*Config.java</mask>
     <mask>*.sql</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
